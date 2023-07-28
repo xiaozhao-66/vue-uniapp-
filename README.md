@@ -3,6 +3,8 @@
 #### 介绍
 一个uniapp+vue的约拍项目模板，已经实现大部分页面，这个项目**不会免费**，需要可以加我联系
 
+**价格** 120￥
+
 **需要免费的项目可以查看另一个仿小红书项目**，所有功能均已完成
 - Gitee地址：https://gitee.com/xzjsccz/springboot-vue-ccimgcloud
 - Github地址：https://github.com/xiaozhao-66/ccimgcloud-springboot-vue （github是旧版本）
